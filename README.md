@@ -1,6 +1,6 @@
 # Hi, I'm Ajith S 👋
 
-### Data Science Intern | Machine Learning Enthusiast
+### Data Science Intern @ Rubixe | Machine Learning & AI Engineer
 
 I'm an Electronics & Communication Engineering graduate and Data Science Intern
 focused on building practical machine learning solutions using Python and SQL.
